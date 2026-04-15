@@ -27,3 +27,9 @@ AmazonLogo/
     ├── a.gif〜z.gif  # アルファベット画像（各文字）
     └── arrow.png     # Amazon風の矢印画像
 ```
+
+---
+
+## 著作権
+
+Copyright © Ogawa Keito. All rights reserved.
