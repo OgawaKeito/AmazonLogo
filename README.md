@@ -30,6 +30,6 @@ AmazonLogo/
 
 ---
 
-## 著作権
+## ライセンス
 
-Copyright © Ogawa Keito. All rights reserved.
+[MIT License](LICENSE)
